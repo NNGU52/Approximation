@@ -1,0 +1,18 @@
+c:\users\acer\documents\visual studio 2013\Projects\ApproximationWF\ApproximationWF\bin\Debug\ApproximationWF.exe.config
+c:\users\acer\documents\visual studio 2013\Projects\ApproximationWF\ApproximationWF\obj\Debug\ApproximationWF.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2013\Projects\ApproximationWF\ApproximationWF\obj\Debug\ApproximationWF.Form1.resources
+c:\users\acer\documents\visual studio 2013\Projects\ApproximationWF\ApproximationWF\obj\Debug\ApproximationWF.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2013\Projects\ApproximationWF\ApproximationWF\obj\Debug\ApproximationWF.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2013\Projects\ApproximationWF\ApproximationWF\bin\Debug\ApproximationWF.exe
+c:\users\acer\documents\visual studio 2013\Projects\ApproximationWF\ApproximationWF\bin\Debug\ApproximationWF.pdb
+c:\users\acer\documents\visual studio 2013\Projects\ApproximationWF\ApproximationWF\obj\Debug\ApproximationWF.exe
+c:\users\acer\documents\visual studio 2013\Projects\ApproximationWF\ApproximationWF\obj\Debug\ApproximationWF.pdb
+C:\Users\Acer\Documents\Share\Approximation\ApproximationWF\ApproximationWF\bin\Debug\ApproximationWF.exe.config
+C:\Users\Acer\Documents\Share\Approximation\ApproximationWF\ApproximationWF\obj\Debug\ApproximationWF.exe
+C:\Users\Acer\Documents\Share\Approximation\ApproximationWF\ApproximationWF\obj\Debug\ApproximationWF.pdb
+C:\Users\Acer\Documents\Share\Approximation\ApproximationWF\ApproximationWF\bin\Debug\ApproximationWF.exe
+C:\Users\Acer\Documents\Share\Approximation\ApproximationWF\ApproximationWF\bin\Debug\ApproximationWF.pdb
+C:\Users\Acer\Documents\Share\Approximation\ApproximationWF\ApproximationWF\obj\Debug\ApproximationWF.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Share\Approximation\ApproximationWF\ApproximationWF\obj\Debug\ApproximationWF.Form1.resources
+C:\Users\Acer\Documents\Share\Approximation\ApproximationWF\ApproximationWF\obj\Debug\ApproximationWF.Properties.Resources.resources
+C:\Users\Acer\Documents\Share\Approximation\ApproximationWF\ApproximationWF\obj\Debug\ApproximationWF.csproj.GenerateResource.Cache
